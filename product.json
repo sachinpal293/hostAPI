@@ -1,0 +1,44 @@
+[
+    {
+        "name": "earbuds",
+        "price":154,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "Laptop",
+        "price":154,
+        "featured":true,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone",
+        "price":154,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price":1154,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price":204,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "redmi 12 5G",
+        "price":15400,
+        "featured":true,
+        "company": "MI"
+    },
+    {
+        "name": "iphone",
+        "price":154,
+        "featured":true,
+        "company": "apple"
+    }
+]
